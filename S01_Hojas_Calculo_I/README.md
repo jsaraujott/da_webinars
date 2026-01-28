@@ -8,4 +8,4 @@ https://docs.google.com/spreadsheets/d/1oL-RbcTT2IrSkXQxdziUpkZeNVhwevwQA0GLX6gE
 
 https://docs.google.com/spreadsheets/d/1PWkIUXbeT3WmRC2n8uAGIJMXdTcm-NpdFtfuOQ3ZauU/edit?usp=sharing
 
-Guarda una copia del archivo para que puedas trabajar sobre ella.
+En ambos casos, guarda una copia del archivo para que puedas trabajar en las actividades solicitadas.

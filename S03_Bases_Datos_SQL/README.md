@@ -3,3 +3,7 @@ El propósito de estos ejercicios es introducir en el uso de herramientas para a
 * Creación de bases de datos
 * Consultas mediante SQL
 * Integración de consultas con Google Sheets
+
+Para el ejercicio final, puedes acceder a la solución en el siguiente link:
+
+https://docs.google.com/spreadsheets/d/1GYpc9n2Ikb-9yrXJu3u7bBLxhRERyz4L-yKxlZd2FFs/edit?usp=sharing

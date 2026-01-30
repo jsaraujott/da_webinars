@@ -8,7 +8,7 @@ En estos ejercicios se busca practicar los siguientes conceptos básicos de prog
 * Uso de bucles
 * Uso de condicionales
 
-Posterior a ello, en el caso de estudio se busca prácticar los fundamentos de manipulación de datos con **Pandas**. Adicionalmente, se va a introducir los primeros criterios para un adecuado ordenamiento de proyectos de análisis de datos:
+Posterior a ello, en el caso de estudio y ejercicios adicionales se busca prácticar los fundamentos de manipulación de datos con **Pandas**. Adicionalmente, se va a introducir los primeros criterios para un adecuado ordenamiento de proyectos de análisis de datos:
 
 * Entendimiento del contexto
 * Entendimiento de los datos

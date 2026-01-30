@@ -9,4 +9,4 @@ Material para webinars del Track de DA:
 
 **Módulo 2**
 * Bases de Datos y SQL (S3)
-* Análisis de Embudo con SQL (S4)
+* Análisis de Embudos con SQL (S4)

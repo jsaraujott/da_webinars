@@ -8,4 +8,5 @@ Material para webinars del Track de DA:
 * Hojas de cálculo (S1 - S2)
 
 **Módulo 2**
-* Herramientas SQL (S3 - S4)
+* Bases de Datos y SQL (S3)
+* Análisis de Embudo con SQL (S4)

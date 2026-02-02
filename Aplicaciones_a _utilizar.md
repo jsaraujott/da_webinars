@@ -15,8 +15,11 @@
 * GitHub: https://www.github.com/
   * Se debe crear una cuenta gratuita
 
-**Sprint 7 - Sprint 11**
+**Sprint 7 - Sprint 8**
 * Python: https://www.python.org/downloads/
   * Se recomienda que en la instalación se lo añada al PATH del sistema
 * Visual Studio (VS) Code: https://code.visualstudio.com/download
   * Una vez instalado descargar en la app las extensiones Python y Jupyter
+
+**Sprint 9 - Sprint 10**
+* ...

@@ -22,4 +22,4 @@
   * Una vez instalado descargar en la app las extensiones Python y Jupyter
 
 **Sprint 9 - Sprint 10**
-* Proximamente
+* To be defined...
